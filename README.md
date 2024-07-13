@@ -2,6 +2,9 @@
 
 - 근무자의 신체상태 검사 - 심박수, 체온, 음주여부
 - RFID를 사용하여 근무자 정보 확인
+
+<br>
+
 - 사용한 보드/센서
   - Arduino Uno R4 Wifi *3, Arduino Uni Mini *1
   - [음주 여부](alcohol/alcohol.ino) - [MQ-3 알코올 센서](https://www.devicemart.co.kr/goods/view?no=1327429) (Analog Pin 사용)
